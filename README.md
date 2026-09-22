@@ -1,1 +1,2 @@
-# projetocurriculo2
+# projetocurriculo
+Projeto para montar um currículo
